@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: mission0
+    Prefab: {fileID: 2494787437970013596, guid: b269f3af6c6a749d79f732696048353c, type: 3}
+  - MeshId: mission1
+    Prefab: {fileID: 2599375890738742845, guid: 4573170c5698e4ad9a9096e3899d0f0c, type: 3}
+  - MeshId: mission2
+    Prefab: {fileID: 8775476407579144148, guid: e409a06f3f253448abc58ce4fde3016a, type: 3}
+  - MeshId: mission3
+    Prefab: {fileID: 5165838163995217346, guid: d2f996e6a4eaf4019a0e967aed0f55ed, type: 3}
+  - MeshId: mission4
+    Prefab: {fileID: 5230165063861828058, guid: 6f83326e4782349ed9166672499511a2, type: 3}
